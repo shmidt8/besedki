@@ -1,0 +1,56 @@
+html, body, div, span, object, iframe, img, strong, b, u, i,table,tbody, tfoot, thead,td,th,tr
+form, label, legend,header,footer,article,section,aside{margin:0; padding:0; border:0; vertical-align:middle; background:transparent;}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+input:focus, select:focus, textarea:focus, button:focus {outline:none}
+html, body{width:100%; height:100%;}
+.clearfix::after{clear: both; content: "";	display: table;}
+*{box-sizing: border-box; outline: none;}
+button,input[type="button"],input[type="submit"]{cursor: pointer}
+table,td,th,tr {border-collapse:collapse; border-spacing:0;}
+input, select, textarea,button {font-family: arial, helvetica, sans-serif; font-weight:400; color: #000; width: 100%;}
+
+/*.clear{clear:both; font-size:0;}*/
+
+
+/*@font-face {
+    font-family: 'pt_sansbold';
+    src: url('../fonts/pt_sans-web-bold-webfont.woff2') format('woff2'),
+         url('../fonts/pt_sans-web-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'pt_sansbold_italic';
+    src: url('../fonts/pt_sans-web-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/pt_sans-web-bolditalic-webfont.woff') format('woff');
+    font-weight: bold-italic;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'pt_sansitalic';
+    src: url('../fonts/pt_sans-web-italic-webfont.woff2') format('woff2'),
+         url('../fonts/pt_sans-web-italic-webfont.woff') format('woff');
+    font-weight: italic;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'pt_sansregular';
+    src: url('../fonts/pt_sans-web-regular-webfont.woff2') format('woff2'),
+         url('../fonts/pt_sans-web-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+*/
